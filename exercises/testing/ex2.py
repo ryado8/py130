@@ -1,0 +1,1 @@
+self.assertEqual('xyz', value.lower())

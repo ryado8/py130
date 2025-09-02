@@ -1,0 +1,1 @@
+self.assertTrue(value % 2 != 0, 'value is not odd')

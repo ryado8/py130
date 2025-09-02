@@ -1,0 +1,1 @@
+self.assertIsInstance(value, Numeric)

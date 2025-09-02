@@ -1,0 +1,1 @@
+self.assertIsNone(value)

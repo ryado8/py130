@@ -1,0 +1,1 @@
+self.assertIn('xyz', lst)
